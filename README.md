@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[2.1]: https://www.google.com/search?tbs=simg:CAQS5AEJxGg-EEGuez0a2AELELCMpwgaYgpgCAMSKPMBmgaiBp4G8gGbEpwStwf0BqEGozSkNME95jbLM8A9_1zOQNKI0lD4aMGG0PE-fY5q8D7zokWee7fyhTU-jyd0FGU86vxm-z9hNE4FaUY-vurMgfkAPeji_1RyAEDAsQjq7-CBoKCggIARIEj-8HHAwLEJ3twQkaUQoYCgZjaXJjbGXapYj2AwoKCC9tLzAxdmtsChsKCGxpbmUgYXJ02qWI9gMLCgkvbS8wOTE5cngKGAoFc2hpcnTapYj2AwsKCS9tLzAxbjRxagw&sxsrf=ALeKk0018FMMG3kR53xovPTMHEzKSzDB-A:1595091788466&q=instagram+icon+black+png&tbm=isch&sa=X&ved=2ahUKEwi-7L37o9fqAhWVyzgGHanUANcQwg4oAHoECAkQKA (instagram icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
